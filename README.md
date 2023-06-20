@@ -1,4 +1,14 @@
 # forking-lesson
-William
-El Salvador
-Front-end developer
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
